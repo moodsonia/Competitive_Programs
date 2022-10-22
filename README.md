@@ -7,4 +7,4 @@ Programming Questions for Competitive Coding Exams
 | 2| Lapindromes |https://www.codechef.com/problems/LAPIN| Strings|
 
 
-| 3| Regular Expression Matching |https://leetcode.com/problems/regular-expression-matching| Strings|
+| 3| Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching | Strings|
